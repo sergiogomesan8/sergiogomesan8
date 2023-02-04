@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sergio Gómez Sánchez</h1>
 <h3 align="center">A FullStack Developer from Spain</h3>
 
+- 📚 Studying a web engineering at the Polytechnic University of Madrid.
+
 - 🔭 I’m currently working on [Correcto](https://www.correcto.es/)
 
 - 🌱 I’m currently learning **Angular, NodeJS, GitHub Actions...**
