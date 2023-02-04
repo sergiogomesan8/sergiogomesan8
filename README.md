@@ -13,6 +13,7 @@
 ## ⚽ My goals
 - 📖 Learn the most about web applications and services development
 - 💎 To be able to develop professional projects
+- 🔜 By the end of the year be a web master
 
 <br>
 
