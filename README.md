@@ -1,19 +1,27 @@
-<h1 align="center">Hi! 👋, I'm Sergio Gómez Sánchez</h1>
-<h3 align="center">A Full Stack Developer from Spain</h3>
+<h1 align="center">Hi! 👋 I'm Sergio Gómez Sánchez</h1>
+<h3 align="center">Software Engineer</h3>
 
 
 
 ## 👨🏼‍💻 About Me
-- 📚 Studying a web engineering at the Polytechnic University of Madrid
-- 💻 I’m currently working as Full Stack Developer on [Correcto](https://www.correcto.es/) 
-- 🌱 I’m currently learning Angular, NodeJS, Google Cloud, DevOps...
+- 📚 Graduated in Web Engineering from the Polytechnic University of Madrid, with a strong focus on software architecture and backend development.
+- 💻 I have 3+ years of experience building and maintaining full-stack applications, currently focusing on backend development with Python and Django at [Correcto](https://www.correcto.es/).
 
 <br>
 
-## ⚽ My goals
-- 📖 Learn the most about web applications and services development
-- 💎 To be able to develop professional projects
-- 🔜 By the end of the year be a web master
+## ⚡ What I Do
+- Design and develop APIs and backend services, ensuring code quality, maintainability, and scalability.
+- Manage cloud infrastructure and automate deployment pipelines to support fast and reliable software delivery.
+- Collaborate with product and frontend teams to align technical solutions with user needs and business goals.
+- Continuously improve systems, code, and processes while learning new technologies and approaches.
+
+<br>
+
+## 🎯 Goals
+- Expand my knowledge in cloud architecture and DevOps practices.
+- Build robust, scalable, and maintainable software solutions.
+- Grow as a well-rounded software engineer, mastering the full software lifecycle from design to production.
+- Contribute to products that make a meaningful impact and learn from highly skilled teams.
 
 <br>
 
