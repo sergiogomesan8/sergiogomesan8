@@ -6,7 +6,6 @@
 ## 👨🏼‍💻 About Me
 - 📚 I’m graduated in Computer Engineering (USAL) and Web Engineering (UPM).
 - 💻 Nearly 4 years of experience focused on backend development, architecture, and DevOps.
-- 🌀 I aim to build software that’s not only well-engineered but also meaningful — connecting technical quality with product impact.
 
 <br>
 
