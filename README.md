@@ -1,25 +1,25 @@
 <h1 align="center">Hi! 👋 I'm Sergio Gómez Sánchez</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Backend Engineer</h3>
 
 
 
 ## 👨🏼‍💻 About Me
-- 📚 Graduated in Web Engineering from the Polytechnic University of Madrid, with a strong focus on software architecture and backend development.
-- 💻 I have 3+ years of experience building and maintaining full-stack applications, currently focusing on backend development with Python and Django at [Correcto](https://www.correcto.es/).
+- 📚 I’m graduated in Computer Engineering (USAL) and Web Engineering (UPM).
+- 💻 Nearly 4 years of experience focused on backend development, architecture, and DevOps.
+- 🌀 I aim to build software that’s not only well-engineered but also meaningful — connecting technical quality with product impact.
 
 <br>
 
 ## ⚡ What I Do
-- Design and develop APIs and backend services, ensuring code quality, maintainability, and scalability.
-- Manage cloud infrastructure and automate deployment pipelines to support fast and reliable software delivery.
-- Collaborate with product and frontend teams to align technical solutions with user needs and business goals.
-- Continuously improve systems, code, and processes while learning new technologies and approaches.
+- 🧩 Design and develop backend systems applying Domain-Driven Design (DDD) and clean architecture principles.
+- ☁️ Manage cloud infrastructure (AWS & GCP) and automate CI/CD pipelines for reliable and efficient delivery.
+- 📊 Use data and observability to understand system behavior and guide continuous improvement.
+- 🤝 Collaborate closely with product teams, ensuring technical solutions align with business goals and user needs.
 
 <br>
 
 ## 🎯 Goals
 - Expand my knowledge in cloud architecture and DevOps practices.
-- Build robust, scalable, and maintainable software solutions.
 - Grow as a well-rounded software engineer, mastering the full software lifecycle from design to production.
 - Contribute to products that make a meaningful impact and learn from highly skilled teams.
 
